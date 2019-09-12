@@ -34,12 +34,12 @@ FOOTER
 ::-moz-selection {
     color: #fff;
     text-shadow: none;
-    background: #de3926;
+    background: #50c569;
 }
 ::selection {
     color: #fff;
     text-shadow: none;
-    background: #de3926;
+    background: #50c569;
 }
 body {
     background-color: #fff;
@@ -54,7 +54,7 @@ h3.border:after,
 h4.border:after,
 h5.border:after,
 h6.border:after {
-    background-color: #de3926;
+    background-color: #50c569;
 }
 p {
     color: #949494;
@@ -63,17 +63,17 @@ a {
     color: #222;
 }
 a:hover {
-    color:#de3926;
+    color:#50c569;
 }
 .label {
     background-color: #f3f3f3;
-    border-left: 3px solid #de3926;
+    border-left: 3px solid #50c569;
 }
 blockquote {
     background: #f3f3f3;
 }
 blockquote:before {
-	background-color: #de3926;
+	background-color: #50c569;
     border:5px solid #fff;
     color:#fff;
 }
@@ -105,8 +105,8 @@ textarea:focus {
     color:#fff;
 }
 .cv-button:hover {
-    background-color: #de3926;
-    border: 3px solid #de3926;
+    background-color: #50c569;
+    border: 3px solid #50c569;
     color:#fff;
 }
 #cv-sidebar input,#cv-sidebar textarea {
@@ -149,7 +149,7 @@ textarea:focus {
     border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
 #cv-main-menu ul li:first-child a {
-    background: #de3926;
+    background: #50c569;
 }
 /* ================= SIDEBAR ================== */
 #cv-sidebar {
@@ -183,7 +183,7 @@ textarea:focus {
 }
 .cv-tags:hover,.sidebar-tags .tags:hover {
     color: #fff;
-    background-color: #de3926;
+    background-color: #50c569;
 }
 .cv-sidebar-post-title{
     color: #949494;
@@ -230,7 +230,7 @@ textarea:focus {
 }
 #home-slide-title span, #home-title h1 .mobile-title{
     color:#fff;
-    background-color: #de3926;
+    background-color: #50c569;
 }
 #home-title p{
     color: #222;
@@ -243,7 +243,7 @@ textarea:focus {
     background-color: #fff;
 }
 #cv-home-social-bar ul li a:hover {
-    color: #de3926;
+    color: #50c569;
 }
 /* ================= CV TABLE ================== */
 .cv-table li {
@@ -306,7 +306,7 @@ textarea:focus {
 }
 .cvfilters li.gridactive {
     color:#fff;
-    background-color: #de3926;
+    background-color: #50c569;
 }
 .cvfilters li.gridactive:hover {
     color:#fff;
@@ -316,7 +316,7 @@ textarea:focus {
 }
 .cvgrid > li > figure > a:after {
     color:#fff;
-    background-color: #de3926;
+    background-color: #50c569;
 }
 /* ================= LIGHTGALLERY ================== */
 .lg-actions .lg-next, .lg-actions .lg-prev {
@@ -356,7 +356,7 @@ textarea:focus {
     background-color: #333;
 }
 .lg-progress-bar .lg-progress {
-    background-color: #de3926;
+    background-color: #50c569;
 }
 .lg-backdrop {
     background-color: #222;
@@ -371,7 +371,7 @@ textarea:focus {
 	color: #fff;
 }
 .tooltipster-red {
-	background: #de3926;
+	background: #50c569;
 	color: #fff;
 }
 /* ================= TESTIMONIALS ================== */
